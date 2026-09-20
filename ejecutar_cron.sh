@@ -9,8 +9,10 @@ cd "$BASE_DIR"
 # 3. Cargar el entorno virtual de Python
 source "$BASE_DIR/env_gemini/bin/activate"
 
-# 4. Cargar las variables de entorno (.env)
-export $(grep -v '^#' .env | xargs)
+# 4. Cargar las variables de entorno (.env) de forma segura
+set -a
+source "$BASE_DIR/.env"
+set +a
 
 # 5. Ejecutar el procesamiento e inspección
 echo "--- Iniciando Cron Job: $(date) ---" >> "$BASE_DIR/sistema.log"

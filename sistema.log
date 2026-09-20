@@ -64,3 +64,27 @@
 2026-09-20 14:17:22 - INFO - --- Inicio de evaluación de reglas de negocio ---
 2026-09-20 14:17:22 - INFO - Solicitud #1 de 'EcoLogistics Tarragona S.L.' evaluada -> APROBADA
 2026-09-20 14:17:22 - INFO - --- Fin de evaluación de reglas de negocio ---
+--- Iniciando Cron Job: dom 20 sep 2026 18:25:53 CEST ---
+2026-09-20 18:25:53 - INFO - --- Inicio de procesamiento de lote ---
+2026-09-20 18:25:53 - INFO - Procesamiento finalizado: 0 archivos encontrados.
+ℹ️ No hay documentos (.txt o .pdf) pendientes en la carpeta de entrada.
+2026-09-20 18:25:53 - INFO - --- Inicio de evaluación de reglas de negocio ---
+2026-09-20 18:25:53 - INFO - Evaluación finalizada: 0 solicitudes pendientes.
+ℹ️ No hay solicitudes pendientes de evaluación.
+--- Fin de ejecucion Cron Job: dom 20 sep 2026 18:25:53 CEST ---
+--- Iniciando Cron Job: dom 20 sep 2026 18:30:01 CEST ---
+2026-09-20 18:30:02 - INFO - --- Inicio de procesamiento de lote ---
+2026-09-20 18:30:02 - INFO - Procesamiento finalizado: 0 archivos encontrados.
+ℹ️ No hay documentos (.txt o .pdf) pendientes en la carpeta de entrada.
+2026-09-20 18:30:02 - INFO - --- Inicio de evaluación de reglas de negocio ---
+2026-09-20 18:30:02 - INFO - Evaluación finalizada: 0 solicitudes pendientes.
+ℹ️ No hay solicitudes pendientes de evaluación.
+--- Fin de ejecucion Cron Job: dom 20 sep 2026 18:30:02 CEST ---
+--- Iniciando Cron Job: dom 20 sep 2026 18:31:22 CEST ---
+2026-09-20 18:31:22 - INFO - --- Inicio de procesamiento de lote ---
+2026-09-20 18:31:22 - INFO - Procesamiento finalizado: 0 archivos encontrados.
+ℹ️ No hay documentos (.txt o .pdf) pendientes en la carpeta de entrada.
+2026-09-20 18:31:23 - INFO - --- Inicio de evaluación de reglas de negocio ---
+2026-09-20 18:31:23 - INFO - Evaluación finalizada: 0 solicitudes pendientes.
+ℹ️ No hay solicitudes pendientes de evaluación.
+--- Fin de ejecucion Cron Job: dom 20 sep 2026 18:31:23 CEST ---
