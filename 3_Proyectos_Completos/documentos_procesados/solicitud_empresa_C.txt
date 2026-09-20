@@ -1,0 +1,7 @@
+PETICIÓN SUBVENCIÓN INNOVACIÓN 2026
+Empresa: 'Tarraco Tech Solutions S.L.'
+Proyecto: Implementación de sensores IoT para eficiencia de agua.
+Presupuesto total solicitado: 22500.00 EUR.
+Requisitos:
+- Licencia medioambiental al día.
+- Certificado PYME innovadora.

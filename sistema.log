@@ -1,0 +1,66 @@
+2026-09-20 13:56:01 - INFO - --- Inicio de procesamiento de lote ---
+2026-09-20 13:56:01 - INFO - Procesando archivo: solicitud_empresa_F.txt
+2026-09-20 13:56:01 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 13:56:01 - WARNING - Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+2026-09-20 13:56:01 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-09-20 13:56:01 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}
+2026-09-20 13:56:03 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 13:56:03 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-09-20 13:56:03 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}
+2026-09-20 13:56:05 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 13:56:06 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-09-20 13:56:06 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}
+2026-09-20 13:56:06 - ERROR - Fallo definitivo al procesar solicitud_empresa_F.txt tras 3 intentos.
+2026-09-20 13:56:06 - INFO - --- Fin de procesamiento de lote ---
+2026-09-20 13:58:23 - INFO - --- Inicio de procesamiento de lote ---
+2026-09-20 13:58:23 - INFO - Procesando archivo: solicitud_empresa_F.txt
+2026-09-20 13:58:23 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 13:58:23 - WARNING - Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+2026-09-20 13:58:27 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-09-20 13:58:27 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 1/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-09-20 13:58:29 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 13:58:31 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-09-20 13:58:31 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 2/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-09-20 13:58:33 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 13:58:37 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-09-20 13:58:37 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 3/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-09-20 13:58:37 - ERROR - Fallo definitivo al procesar solicitud_empresa_F.txt tras 3 intentos.
+2026-09-20 13:58:37 - INFO - --- Fin de procesamiento de lote ---
+2026-09-20 14:03:27 - INFO - --- Inicio de procesamiento de lote ---
+2026-09-20 14:03:27 - INFO - Procesando archivo: solicitud_empresa_F.txt
+2026-09-20 14:03:27 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 14:03:27 - WARNING - Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+2026-09-20 14:03:28 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-09-20 14:03:28 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}
+2026-09-20 14:03:30 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 14:03:30 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-09-20 14:03:30 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}
+2026-09-20 14:03:32 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 14:03:32 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-09-20 14:03:32 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}
+2026-09-20 14:03:32 - ERROR - Fallo definitivo al procesar solicitud_empresa_F.txt tras 3 intentos.
+2026-09-20 14:03:32 - INFO - --- Fin de procesamiento de lote ---
+2026-09-20 14:05:59 - INFO - --- Inicio de procesamiento de lote ---
+2026-09-20 14:05:59 - INFO - Procesando archivo: solicitud_empresa_F.txt
+2026-09-20 14:05:59 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 14:05:59 - WARNING - Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+2026-09-20 14:06:04 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent "HTTP/1.1 200 OK"
+2026-09-20 14:06:04 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 1/3): table solicitudes has no column named cumple_requisitos
+2026-09-20 14:06:06 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 14:06:09 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent "HTTP/1.1 200 OK"
+2026-09-20 14:06:09 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 2/3): table solicitudes has no column named cumple_requisitos
+2026-09-20 14:06:11 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 14:06:15 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent "HTTP/1.1 200 OK"
+2026-09-20 14:06:15 - WARNING - Error al procesar solicitud_empresa_F.txt (Intento 3/3): table solicitudes has no column named cumple_requisitos
+2026-09-20 14:06:15 - ERROR - Fallo definitivo al procesar solicitud_empresa_F.txt tras 3 intentos.
+2026-09-20 14:06:15 - INFO - --- Fin de procesamiento de lote ---
+2026-09-20 14:12:36 - INFO - --- Inicio de procesamiento de lote ---
+2026-09-20 14:12:36 - INFO - Procesando archivo: solicitud_empresa_F.txt
+2026-09-20 14:12:36 - INFO - AFC is enabled with max remote calls: 10.
+2026-09-20 14:12:36 - WARNING - Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+2026-09-20 14:12:39 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent "HTTP/1.1 200 OK"
+2026-09-20 14:12:39 - INFO - Éxito al procesar solicitud_empresa_F.txt. Empresa: EcoLogistics Tarragona S.L.
+2026-09-20 14:12:39 - INFO - --- Fin de procesamiento de lote ---
+2026-09-20 14:17:22 - INFO - --- Inicio de evaluación de reglas de negocio ---
+2026-09-20 14:17:22 - INFO - Solicitud #1 de 'EcoLogistics Tarragona S.L.' evaluada -> APROBADA
+2026-09-20 14:17:22 - INFO - --- Fin de evaluación de reglas de negocio ---
