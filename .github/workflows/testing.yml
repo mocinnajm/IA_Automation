@@ -1,0 +1,31 @@
+name: Integracion Continua - Pruebas Automatizadas
+
+# 1. Cuándo se ejecuta: cada vez que subes código a la rama principal
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+# 2. La tarea automatizada
+jobs:
+  pruebas:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Descargar codigo del repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python 3.12
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Instalar dependencias
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Ejecutar pruebas unitarias
+      run: |
+        pytest -v
