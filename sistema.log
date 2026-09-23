@@ -96,3 +96,11 @@
 2026-09-22 08:00:02 - INFO - Evaluación finalizada: 0 solicitudes pendientes.
 ℹ️ No hay solicitudes pendientes de evaluación.
 --- Fin de ejecucion Cron Job: mar 22 sep 2026 08:00:02 CEST ---
+--- Iniciando Cron Job: mié 23 sep 2026 08:00:01 CEST ---
+2026-09-23 08:00:02 - INFO - --- Inicio de procesamiento de lote ---
+2026-09-23 08:00:02 - INFO - Procesamiento finalizado: 0 archivos encontrados.
+ℹ️ No hay documentos (.txt o .pdf) pendientes en la carpeta de entrada.
+2026-09-23 08:00:02 - INFO - --- Inicio de evaluación de reglas de negocio ---
+2026-09-23 08:00:02 - INFO - Evaluación finalizada: 0 solicitudes pendientes.
+ℹ️ No hay solicitudes pendientes de evaluación.
+--- Fin de ejecucion Cron Job: mié 23 sep 2026 08:00:02 CEST ---
