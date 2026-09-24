@@ -1,4 +1,4 @@
-Sistema de automatización de grado de producción diseñado para la extracción, estructuración, persistencia y evaluación automática de solicitudes de subvención utilizando Inteligencia Artificial Generativa.
+Sistema de automatización de grado de producción diseñado para la extracción, estructuración, persistencia y evaluación automática de solicitudes de utilizando Inteligencia Artificial Generativa.
 
 ---
 
